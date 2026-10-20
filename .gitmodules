@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "qountstat"]
 	path = qountstat
-	url = https://github.com/cran/qountstat
+	url = https://github.com/bennidaniels/qountstat
